@@ -1,0 +1,7 @@
+POST http://localhost:4000/Pedidos
+Content-Type: application/json
+
+{
+    "fecha_pedido": "2023114 23:59:59",
+    "observaciones": "ninguna"
+}
